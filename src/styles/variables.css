@@ -1,0 +1,21 @@
+:root {
+  /* Color Variables */
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --accent-color: #e74c3c;
+  --neutral-color: #bdc3c7;
+
+  /* Spacing Variables */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 32px;
+  --space-xl: 64px;
+
+  /* Typography Variables */
+  --font-family: 'Arial, sans-serif';
+  --font-size-base: 16px;
+  --font-size-lg: 20px;
+  --font-size-sm: 14px;
+  --line-height: 1.5;
+}
